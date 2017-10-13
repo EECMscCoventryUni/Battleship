@@ -1,0 +1,8 @@
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Release\Battleship.exe.config
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Release\Battleship.exe
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Release\Battleship.pdb
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Release\Battleship.battleship.resources
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Release\Battleship.Properties.Resources.resources
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Release\Battleship.csproj.GenerateResource.Cache
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Release\Battleship.exe
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Release\Battleship.pdb

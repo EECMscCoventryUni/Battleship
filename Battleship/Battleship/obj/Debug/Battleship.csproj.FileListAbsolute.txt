@@ -1,0 +1,9 @@
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Debug\Battleship.exe.config
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Debug\Battleship.exe
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\bin\Debug\Battleship.pdb
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.battleship.resources
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Cache
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.exe
+c:\users\suraj\documents\visual studio 2015\Projects\Battleship\Battleship\obj\Debug\Battleship.pdb
